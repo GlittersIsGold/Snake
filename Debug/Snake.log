@@ -1,0 +1,2 @@
+﻿  Snake.cpp
+C:\Users\shelb\source\repos\Snake\Snake.cpp(1,10): error C1083: Не удается открыть файл включение: SDL_audio.h: No such file or directory,
